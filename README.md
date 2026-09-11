@@ -1,42 +1,48 @@
-<h1>Olá, meu nome é Tiago Santos!</h1>
-<h2>Desenvolvedor Full-Stack.</h2>
-<div align="center">
-  <a href="https://github.com/Tiakowski">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiakowski&layout=compact&langs_count=7&theme=moltack">
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tiago-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Tiago-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="Tiago-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Tiago-VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="right" alt="Tiago-pic" width="35%" src="https://c.tenor.com/4mEy7cQ4ZhEAAAAC/wow-jim.gif">
-</div>
-  
-  ##
-  
- <div> 
-  <a href = "mailto:tiagosantosrazr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiagosantosc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/Tiakowski/Tiakowski/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# Olá, eu sou o Tiago Santos 👋
 
-<!--
-**Tiakowski/Tiakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor • Automação • Dados
 
-Here are some ideas to get you started:
+Sou formado em **Análise e Desenvolvimento de Sistemas** e trabalho
+criando soluções que transformam processos manuais em ferramentas mais
+simples, rápidas e úteis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto especialmente de **automação, desenvolvimento web e dados** ---
+principalmente quando algumas linhas de código conseguem economizar
+bastante trabalho no dia a dia.
+
+Atualmente também desenvolvo projetos próprios para explorar ideias,
+aprender novas tecnologias e colocar soluções reais em produção.
+
+## 🛠️ Tecnologias
+
+**Back-end:** Node.js • Express • Python • Flask\
+**Front-end:** JavaScript • Vue.js • React • HTML • CSS\
+**Dados:** MySQL • SQLite • pandas • Power BI\
+**Outros:** Git • APIs REST • automação de processos
+
+## 🚀 O que gosto de construir
+
+-   Automações para eliminar tarefas repetitivas
+-   Sistemas web e ferramentas internas
+-   Integrações entre aplicações e bancos de dados
+-   Dashboards e soluções orientadas a dados
+-   Projetos que resolvam problemas reais, mesmo que pequenos
+
+## 📊 GitHub
+
+::: {align="center"}
+`<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiakowski&layout=compact&langs_count=7" alt="Linguagens mais usadas" />`{=html}
+:::
+
+## 📫 Contato
+
+`<a href="mailto:tiagosantosrazr@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/tiagosantosc/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
+`</a>`{=html}
+
+------------------------------------------------------------------------
+
+> Gosto de tecnologia porque dá para testar na hora.
