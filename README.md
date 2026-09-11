@@ -1,9 +1,9 @@
 # Olá, eu sou o Tiago Santos.
 
 ### Desenvolvedor • Automação • Dados
-<img align="right" height="160" src="https://cdn.prod.website-files.com/5d2b950d9ea87fc61f0c1f3e/5daa2f818bfff61e250fd7da_ezgif.com-resize.gif">
-Atuo em projetos da **Petrobras** com desenvolvimento, automação e dados.
 
+Atuo em projetos da **Petrobras** com desenvolvimento, automação e dados.
+<img align="right" height="160" src="https://cdn.prod.website-files.com/5d2b950d9ea87fc61f0c1f3e/5daa2f818bfff61e250fd7da_ezgif.com-resize.gif">
 
 Formado em **Análise e Desenvolvimento de Sistemas**.
 
